@@ -3,7 +3,7 @@ import com.sun.net.httpserver.Authenticator;
 import java.io.*;
 import java.util.Scanner;
 
-public class chernovik {
+public class Chernovik {
 //buffered System.in
     //printwriter System.out
 
